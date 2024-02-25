@@ -1,0 +1,2 @@
+Multi line string
+each enter is taken as next line
